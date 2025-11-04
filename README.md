@@ -125,7 +125,7 @@ Created an interactive dashboard for analyzing public sentiment on social media 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/ashutosh-suryawanshi-26aa46378"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/ashutosh-suryawanshi-26aa46378/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:ashusurya00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Ashusurya00"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
