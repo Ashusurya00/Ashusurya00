@@ -93,9 +93,12 @@ Created an interactive dashboard for analyzing public sentiment on social media 
 
 ### 📊 GitHub Stats
 
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshsuryawanshi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshsuryawanshi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsuryawanshi&theme=tokyonight)
+### 📊 GitHub Stats
+
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusurya00&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashusurya00&theme=tokyonight)
+
 
 ---
 
