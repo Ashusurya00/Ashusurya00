@@ -91,16 +91,7 @@ Created an interactive dashboard for analyzing public sentiment on social media 
 
 ---
 
-### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusurya00&layout=compact&theme=tokyonight&cache_seconds=1800)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashusurya00&theme=tokyonight)
-## 📊 GitHub Analytics
-
-<div align="center">
 
 ### 🚀 Activity & Contributions  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github&hide_border=true)
@@ -112,25 +103,50 @@ Created an interactive dashboard for analyzing public sentiment on social media 
 
 ---
 
-### 🔥 Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashusurya00&theme=tokyonight&hide_border=true&border_radius=10)
+## 📊 GitHub Stats & Achievements
+
+<div align="center">
+
+### 🚀 Overall Performance  
+<img src="https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="170"/>
 
 ---
 
-### 🏆 GitHub Trophy  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ashusurya00&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true)
+### 🧠 Languages & Tech Usage  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusurya00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+
+---
+
+### 🔥 Daily Coding Streak  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashusurya00&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+
+---
+
+### 🏆 GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=Ashusurya00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+
+---
+
+### 🎖️ Achievements  
+<img src="https://github-profile-achievements.vercel.app/api/badge/contributor?username=Ashusurya00" height="120" />
+<img src="https://github-profile-achievements.vercel.app/api/badge/maintainer?username=Ashusurya00" height="120" />
+<img src="https://github-profile-achievements.vercel.app/api/badge/verified?username=Ashusurya00" height="120" />
+<img src="https://github-profile-achievements.vercel.app/api/badge/stargazer?username=Ashusurya00" height="120" />
+
+---
+
+### 🔧 Dev Metrics  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashusurya00&repo=Ashusurya00&theme=tokyonight&hide_border=true&border_radius=12" />
 
 ---
 
 ### 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashusurya00&theme=tokyo-night&area=true&hide_border=true)
-
----
-
-### 🐍 Animated Snake Contribution Grid  
-![snake gif](https://github.com/Ashusurya00/Ashusurya00/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashusurya00&theme=tokyo-night&area=true&hide_border=true&radius=12"/>
 
 </div>
+
+
+
 
 
 
