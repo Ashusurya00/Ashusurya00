@@ -93,58 +93,45 @@ Created an interactive dashboard for analyzing public sentiment on social media 
 
 
 
-### 🚀 Activity & Contributions  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github&hide_border=true)
-
----
-
-### 🧠 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusurya00&layout=compact&theme=tokyonight&border_radius=10&hide_border=true)
-
----
-
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-### 🚀 Overall Performance  
-<img src="https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="170"/>
+<!-- Profile / Stats -->
+[![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github)](https://github.com/Ashusurya00)
+
+<!-- Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusurya00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/Ashusurya00)
+
+<!-- Streaks -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashusurya00&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/Ashusurya00)
 
 ---
 
-### 🧠 Languages & Tech Usage  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusurya00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+<!-- Trophies -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Ashusurya00&theme=tokyonight&no-bg=true&no-frame=true&margin-w=12)](https://github.com/Ashusurya00)
 
 ---
 
-### 🔥 Daily Coding Streak  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashusurya00&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+<!-- Pinned repo card (replace REPO_NAME if needed) -->
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Ashusurya00&repo=Ashusurya00&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/Ashusurya00/Ashusurya00)
 
 ---
 
-### 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=Ashusurya00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+<!-- Contribution graph -->
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashusurya00&theme=tokyo-night&area=true&hide_border=true&radius=12)](https://github.com/Ashusurya00)
 
 ---
 
-### 🎖️ Achievements  
-<img src="https://github-profile-achievements.vercel.app/api/badge/contributor?username=Ashusurya00" height="120" />
-<img src="https://github-profile-achievements.vercel.app/api/badge/maintainer?username=Ashusurya00" height="120" />
-<img src="https://github-profile-achievements.vercel.app/api/badge/verified?username=Ashusurya00" height="120" />
-<img src="https://github-profile-achievements.vercel.app/api/badge/stargazer?username=Ashusurya00" height="120" />
-
----
-
-### 🔧 Dev Metrics  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashusurya00&repo=Ashusurya00&theme=tokyonight&hide_border=true&border_radius=12" />
-
----
-
-### 📈 Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashusurya00&theme=tokyo-night&area=true&hide_border=true&radius=12"/>
+<!-- Quick actionable badges -->
+<p>
+  <a href="https://github.com/Ashusurya00"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Ashusurya00?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-0A66C2?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Ashusurya00?tab=followers"><img src="https://img.shields.io/github/followers/Ashusurya00?label=Followers&style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Ashusurya00"><img src="https://img.shields.io/github/stars/Ashusurya00/Ashusurya00?style=for-the-badge&logo=github&label=Repo%20Stars"/></a>
+</p>
 
 </div>
-
 
 
 
