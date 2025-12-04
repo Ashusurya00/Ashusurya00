@@ -98,6 +98,40 @@ Created an interactive dashboard for analyzing public sentiment on social media 
 ![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusurya00&layout=compact&theme=tokyonight&cache_seconds=1800)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashusurya00&theme=tokyonight)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🚀 Activity & Contributions  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashusurya00&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github&hide_border=true)
+
+---
+
+### 🧠 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusurya00&layout=compact&theme=tokyonight&border_radius=10&hide_border=true)
+
+---
+
+### 🔥 Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashusurya00&theme=tokyonight&hide_border=true&border_radius=10)
+
+---
+
+### 🏆 GitHub Trophy  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Ashusurya00&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true)
+
+---
+
+### 📈 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashusurya00&theme=tokyo-night&area=true&hide_border=true)
+
+---
+
+### 🐍 Animated Snake Contribution Grid  
+![snake gif](https://github.com/Ashusurya00/Ashusurya00/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 
 ---
